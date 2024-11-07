@@ -42,3 +42,17 @@ yarn install
 npm start
 # or
 yarn start
+
+
+
+/src
+  /components
+    Dashboard.js           # Main dashboard component
+    PowerConsumption.js    # Component displaying the power consumption with a circular progress chart
+    LineChart.js           # Component displaying average power consumption trends using a line chart
+  /styles
+    Dashboard.css          # Styles for the main dashboard layout
+    PowerConsumption.css   # Styles for the PowerConsumption component
+    LineChart.css          # Styles for the LineChart component
+App.js                     # Root component of the application
+index.js                   # Entry point for rendering the app
