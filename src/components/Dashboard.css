@@ -1,0 +1,19 @@
+.dashboard {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .dashboard-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+  }
+  
+  .dashboard-charts {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+  
