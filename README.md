@@ -49,4 +49,3 @@ yarn start
 - **Dashboard**: Displays the main user interface with an overview of power consumption.
 - **Power Consumption**: Visualizes the power consumption using a circular progress chart.
 - **Line Chart**: Displays historical data of average power consumption trends.
--
