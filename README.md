@@ -44,15 +44,9 @@ npm start
 yarn start
 
 
+## Features
 
-/src
-  /components
-    Dashboard.js           # Main dashboard component
-    PowerConsumption.js    # Component displaying the power consumption with a circular progress chart
-    LineChart.js           # Component displaying average power consumption trends using a line chart
-  /styles
-    Dashboard.css          # Styles for the main dashboard layout
-    PowerConsumption.css   # Styles for the PowerConsumption component
-    LineChart.css          # Styles for the LineChart component
-App.js                     # Root component of the application
-index.js                   # Entry point for rendering the app
+- **Dashboard**: Displays the main user interface with an overview of power consumption.
+- **Power Consumption**: Visualizes the power consumption using a circular progress chart.
+- **Line Chart**: Displays historical data of average power consumption trends.
+-
